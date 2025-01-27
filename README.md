@@ -1,4 +1,4 @@
-# UniFi Script
+# Unofficial-Unifi-Server-Script
 Simple script that installs Unifi Server into a Debian based Linux server
 <br> </br>
 Tested on Debian 12.9.0 and Ubuntu 24.04.01 LTS
