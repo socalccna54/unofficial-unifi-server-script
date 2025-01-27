@@ -2,7 +2,7 @@
 #UniFi Server Script
 #Credits goes to eW4GJMqscYtbBkw9 from reddit
 # Update package lists, upgrade all packages, and remove unnecessary packages
-sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
+sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y &&
 # Install required packages
 sudo apt install -y gnupg ca-certificates apt-transport-https
 # Add MongoDB GPG key and repository
