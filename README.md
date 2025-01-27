@@ -22,6 +22,6 @@ https://thelinuxforum.com/articles/611-how-to-set-static-ip-address-on-debian-12
 you can also create a snapshot prior to running this script to easily revert back in case of an issue
 
 
-<h2>Run this single one command</h2>
+<h2>Run this single command</h2>
 <code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/refs/heads/main/unifi-server-install-script.sh | bash</code><br></br>
 
