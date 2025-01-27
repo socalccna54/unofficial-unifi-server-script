@@ -18,5 +18,5 @@ DISCLAIMER: Use at your own risk. I'm not responsible for anything that could ha
 https://thelinuxforum.com/articles/611-how-to-set-static-ip-address-on-debian-12<br></br>
 
 <h2>Run this one command</h2>
-<code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/refs/heads/main/UnifServer-script.sh | bash</code><br></br>
+<code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/refs/heads/main/unifi-server-install-script.sh | bash</code><br></br>
 
