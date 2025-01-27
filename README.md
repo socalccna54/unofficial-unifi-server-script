@@ -17,7 +17,7 @@ DISCLAIMER: Use at your own risk. I'm not responsible for anything that could ha
 -While not necessary, I strongly suggest you have a static IP on your server, follow this guide in order to do so:<br></br>
 https://thelinuxforum.com/articles/611-how-to-set-static-ip-address-on-debian-12<br></br>
 
-<h3>Important</h3>
+<h3>***IMPORTANT***</h3>
 -Make sure you do a full backup of your system before running this script, if running a VM in a virtualized platform, 
 you can also create a snapshot prior to running this script to easily revert back in case of an issue
 
