@@ -15,5 +15,8 @@ DISCLAIMER: Use at your own risk. I'm not responsible for anything that could ha
 -Make sure you install curl if you don't have it with the following command:<br></br>
 <code>sudo apt install curl</code><br></br>
 -While not necessary, I strongly suggest you have a static IP on your server, follow this guide in order to do this:<br></br>
-https://thelinuxforum.com/articles/611-how-to-set-static-ip-address-on-debian-12
+https://thelinuxforum.com/articles/611-how-to-set-static-ip-address-on-debian-12<br></br>
+
+<h2>Run this one command</h2>
+<code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/refs/heads/main/UnifServer-script.sh | bash</code><br></br>
 
