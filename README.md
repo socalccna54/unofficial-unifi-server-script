@@ -23,5 +23,5 @@ you can also create a snapshot prior to running this script to easily revert bac
 
 
 <h1>Run this single command</h1>
-<code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/refs/heads/main/unifi-server-install-script.sh | bash</code><br></br>
+<code>curl -L https://raw.githubusercontent.com/socalccna54/unifiscript/main/unifi-server-install-script.sh | bash</code><br></br>
 
