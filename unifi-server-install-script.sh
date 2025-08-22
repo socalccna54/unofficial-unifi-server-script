@@ -4,7 +4,7 @@
 # Update all package lists, upgrade all packages, and remove unecessary packages
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 # Install required packages
-sudo apt install -y gnupg ca-certificates apt-transport-https
+sudo apt install ca-certificates apt-transport-https software-properties-common gnupg curl -y
 # Add MongoDB GPG key and repository
 curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor
 echo "deb [ signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] http://repo.mongodb.org/apt/debian bookworm/mongodb-org/8.0 main" | sudo tee /etc/apt/sources.list.d/mongodb-org-8.0.list
